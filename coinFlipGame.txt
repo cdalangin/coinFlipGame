@@ -1,0 +1,7 @@
+# this is a coinflippin game
+
+coin_flip = [heads, tails]
+coin_flip_guess = [head, tail]
+
+# find a way to cycle through 
+
