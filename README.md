@@ -1,4 +1,4 @@
-This is for a Codecademy Indepented project where I have to make a console application 
+This is for a Codecademy Independent project where I have to make a console application 
 that allows the user to guess the outcome of a random coin flip.
 
 Basic Requirements
